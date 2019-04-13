@@ -1,0 +1,11 @@
+﻿<Window x:Class="SVNMailer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:svn="clr-namespace:SVNMailer"
+        Title="SVN Lazy Mailer" 
+        WindowStartupLocation="CenterScreen" 
+        Icon="./Resources/LazyMailerIcon.ico"
+        ResizeMode="NoResize" 
+        Width="1200" Height="640">
+    <svn:SVNMainControl Margin="5"/>
+</Window>

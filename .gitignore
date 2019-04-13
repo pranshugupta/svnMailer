@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/SVNMailer/v16
+/SVNMailer/bin
+/SVNMailer/obj
+/SVNMailer/SVNMailer.v12.suo
